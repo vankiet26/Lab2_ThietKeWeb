@@ -8,23 +8,23 @@
             font-family: Arial, sans-serif;
         }
         .content {
-            width: 400px;
+            width: 380px;
             margin: auto;
             border: 2px solid red;
             padding: 20px;
         }
         h1 {
-            color: royalblue;
+            color: blue;
             margin-bottom: 20px;
         }
         label {
             display: inline-block;
-            width: 150px;
+            width: 130px;
             margin-top: 10px;
         }
         span {
             display: inline-block;
-            width: 200px;
+            width: 1800px;
         }
     </style>
     <?php
