@@ -8,19 +8,19 @@
             font-family: Arial, sans-serif;
         }
         .content {
-            width: 500px;
+            width: 450px;
             margin: auto;
             border: 2px solid red;
             padding: 20px;
         }
         h1 {
-            color: royalblue;
+            color: blue;
             margin-bottom: 20px;
             text-align: center;
         }
         label {
             display: inline-block;
-            width: 180px;
+            width: 150px;
             margin-top: 10px;
         }
         p {
