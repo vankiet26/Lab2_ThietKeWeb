@@ -14,7 +14,7 @@
             padding: 20px;
         }
         h1 {
-            color: red;
+            color: blue;
             margin-bottom: 20px;
         }
         label {
@@ -29,7 +29,7 @@
         input[type="submit"] {
             margin-top: 15px;
             padding: 8px 16px;
-            background-color: reroyalblued; 
+            background-color: yellow; 
             color: #fff;              
             border: none;             
             border-radius: 4px;        
@@ -39,7 +39,7 @@
             margin-right: auto;      
         }
         input[type="submit"]:hover {
-            background-color: #1d9429; 
+            background-color: blue; 
         }
         .error {
             color: red;
